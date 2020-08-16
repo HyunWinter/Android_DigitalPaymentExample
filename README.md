@@ -1,5 +1,5 @@
 # Android_DigitalPaymentExample
-Google Pay for Android Apps (In Development)
+Google Pay for Android Apps
 
 | **Product 1** | **Product 2** |
 | :---: | :---: |
